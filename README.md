@@ -17,7 +17,7 @@
 
 ###
 
-<p align="left">Hi there, I'm Duarte! 👋<br><br>🌍 From: Portugal<br>🎓 Studying: Computer Science and Engineering at NOVA School of Science and Technology (FCT NOVA) <br>💻 Major: Currently enrolled in a Computer Science and Engineering program<br><br>What I Do<br>I’m passionate about solving complex problems and building robust systems. My interests include:<br><br>🛠️ Backend Engineering: Designing scalable and efficient systems.<br><br>🔒 Cybersecurity: Securing applications and infrastructure.<br><br>🤖 Artificial Intelligence & Machine Learning: Exploring the frontiers of AI and ML.<br><br>🧑‍💻 Software Engineering: Writing clean, maintainable, and impactful code.<br><br>🚀 DevOps: Streamlining development and deployment processes.<br><br>My Mindset<br>🧠 Always Learning: I’m constantly exploring new technologies and expanding my skill set.</p>
+<p align="left">Hi there, I'm Duarte! 👋<br><br>🌍 From: Portugal<br>🎓 Studying: Computer Science and Engineering at NOVA School of Science and Technology (FCT NOVA) <br><br><br>I’m passionate about solving complex problems and building robust systems 💻<br>I’m constantly exploring new technologies and expanding my skill set 🧠<br>I'm interesting in learning more about concepts related to 📚:<br><br>🛠️ Backend Engineering<br><br>🔒 Cybersecurity<br><br>🤖 Artificial Intelligence & Machine Learning<br><br>🧑‍💻 Software Engineering<br><br>🚀 DevOps</p>
 
 ###
 
