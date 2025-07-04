@@ -17,7 +17,7 @@
 
 ###
 
-<p align="left">Hi there, I'm Duarte! 👋<br><br>🌍 From: Portugal<br>🎓 Studying: Computer Science and Engineering at NOVA School of Science and Technology (FCT NOVA) <br><br><br>I’m passionate about solving complex problems and building robust systems 💻<br>I’m constantly exploring new technologies and expanding my skill set 🧠<br>I'm interesting in learning more about concepts related to 📚:<br><br>🛠️ Backend Engineering<br><br>🔒 Cybersecurity<br><br>🤖 Artificial Intelligence & Machine Learning<br><br>🧑‍💻 Software Engineering<br><br>🚀 DevOps</p>
+<p align="left">Hi there, I'm Duarte! 👋<br><br>🌍 From: Portugal<br>🎓 Studying: Computer Science and Engineering at NOVA School of Science and Technology (FCT NOVA) <br><br><br>I’m passionate about solving complex problems and building robust systems 💻<br>I’m constantly exploring new technologies and expanding my skill set 🧠<br>I'm interesting in learning more about concepts related to 📚:<br><br>🧑‍💻 Software Engineering<br>🛠️ Backend Engineering<br>🔒 Cybersecurity<br>🤖 Artificial Intelligence<br>🚀 DevOps<br>☁️Cloud</p>
 
 ###
 
@@ -25,16 +25,14 @@
 
 ###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-</div>
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![OCaml](https://img.shields.io/badge/OCaml-ED7F2B?style=for-the-badge&logo=ocaml&logoColor=black)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
 
 ###
